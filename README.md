@@ -1,21 +1,7 @@
-# Vue & Three.js basic scene boilerplate
+# Vue & Three.js shaders
 
-Template vue et three.js, scene 3D basic
+Test premier shaders Three.js & glsl
 
 <br><br>
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
 
